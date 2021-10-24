@@ -1,2 +1,2 @@
 # Oracle-Database
-Homework donw with using pl/sql
+Homework done by using pl/sql
